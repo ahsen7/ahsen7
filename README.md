@@ -12,7 +12,7 @@
   <img alt="Coding" width="1000" height="200" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif">
 </div>
 
-- 🔭 I’m currently working on **Uber-Clone**.
+- 🔭 I’m currently working on **React Native**.
 - 🌱 I’m currently learning **TypeScript**.
 - 👯 I’m looking to collaborate on **React Native** projects.
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/ahsen7).
